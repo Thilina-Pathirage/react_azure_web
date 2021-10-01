@@ -4,7 +4,7 @@ import './Sample.css';
 export default function Sample() {
     return (
         <div>
-           <p>Pathira <b>Gay</b></p>
+           <p>Gay <b>Ashan</b></p>
         </div>
 
     )

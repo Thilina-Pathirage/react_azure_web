@@ -1,7 +1,8 @@
 import "./App.css";
 import Sample from './components/Sample'; 
 import Navbar from './components/Navbar';
-import Gay from './components/pathiraGAY';
+import Gay from './components/GayAshan';
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar/>
       <Sample/>
       <Gay/>
+      <Footer/>
     </div>
   );
 }
